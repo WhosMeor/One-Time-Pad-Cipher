@@ -1,5 +1,5 @@
 def alpha():
- alphabet = list("abcdefghijklmnopqrstuvwxyz0123456789 !\"#$%&'()*+,-./:;<=>?@[\\]^_`{|}~")
+ alphabet = list("abcdefghijklmnopqrstuvwxyz")
  return alphabet;
 
 def length(a):
